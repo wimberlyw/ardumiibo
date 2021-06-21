@@ -31,7 +31,7 @@ This is good for checking to block the way unless a certain thing is scanned.
 
 Message = Serial1.readString()  //This is how we store what we receive. 
 
-if(Message.indexOf(YOURCODE) >= 0)  this is how we check to see if our "code" exists in the Message we received. 
+if(Message.indexOf(YOURCODE) >= 0)  this is how we check to see if our "code" exists ANYWHERE in the Message we received. 
 
 
 EXAMPLE:
