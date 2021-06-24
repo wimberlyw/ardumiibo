@@ -12,7 +12,7 @@
 # TOC
 
 1. [Bill of Materials](https://github.com/wimberlyw/ardumiibo#materials-needed)
-2. [Assembly] (https://github.com/wimberlyw/ardumiibo#assembly)
+2. [Assembly](https://github.com/wimberlyw/ardumiibo#assembly)
     - Arduboy Pro Rumble Game Console
     - Powerboost
     - Boost Cables
