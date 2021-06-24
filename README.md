@@ -11,14 +11,14 @@
 
 # TOC
 
-1. Bill of Materials.
-2. Assembly
+1. [Bill of Materials](https://github.com/wimberlyw/ardumiibo#materials-needed)
+2. [Assembly] (https://github.com/wimberlyw/ardumiibo#assembly)
     - Arduboy Pro Rumble Game Console
     - Powerboost
     - Boost Cables
     - Scanner
-3. Software
-4. Examples  
+3. [Software](https://github.com/wimberlyw/ardumiibo#software)
+4. [Examples](https://github.com/wimberlyw/ardumiibo#load-your-scanner-pro-micro-up-with-the-nfc-reader)  
 
 ## Materials Needed:
 
@@ -58,8 +58,8 @@
 - 
 
 ## Assembly
-  - Good luck.
-  - Add hot glue as wire stree relief as you go. 
+  	- Good luck.
+  - Add hot glue as wire stress relief as you go. 
   
 - Start printing the 3d printer files listed in the 3d parts section of this Github or listed in the BOM above. 
 
