@@ -108,7 +108,7 @@
   
  ## Powerboost and Booster Cables
  
- 1. Follow the directions from Adafruit to hook up a switch to your Powerboost. You're going to want to mount the switch with wires instead of directly to the board so we cna remote mount it. 
+ 1. Follow the directions from Adafruit to hook up a switch to your Powerboost. You're going to want to mount the switch with wires instead of directly to the board so we can remote mount it. 
   - https://learn.adafruit.com/adafruit-powerboost-500-plus-charger/on-slash-off-switch
   
   
