@@ -1,5 +1,7 @@
 # Arduboy Pro Rumble - With Ardumiibo Scanner
+### The Arduboy Pro Rumble itself is a homemade Leonardo backpack that has a vibration motor attached to Speaker Pin 2. Game makers can use the Arduboy2 Tones commands to add rumble to their game. The system also features broken out Serial connection to connect the the Ardumiibo Scanner and future peripherals.
 
+### The Ardumiibo scanner is a PN532 NFC Scanner with a Neopixel ring that can scan collectible items from the real world into your game. 
 
 ## An Arduboy based nod to Tiger Electronics handhelds, Rumble Features, and [Amiibos](https://www.nintendo.com/amiibo/)
 
