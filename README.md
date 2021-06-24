@@ -9,6 +9,7 @@
 ### [Watch The Youtube Playlist Before You Begin](https://youtube.com/playlist?list=PLI37KAai0mUhJ3Yi7gZaNxqZhPj6SuK46)
 
 
+![Cover](/images/Cover.jpg)
 # TOC
 
 1. [Bill of Materials](https://github.com/wimberlyw/ardumiibo#materials-needed)
