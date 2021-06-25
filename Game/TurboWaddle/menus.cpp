@@ -274,7 +274,7 @@ void Menus::UnlockScreen(Arduboy2 ab, int x, int y){
   }else{
     Sprites::drawSelfMasked(ab.width()/2 - 16, ab.height()/2 - 13, eggshell, 4);
 
-    PlayerOne iHateThis; //this is fucking awful.  I created an entire class just to use the spritesets.  How do i C++?
+    PlayerOne iHateThis; //this is awful.  I created an entire class just to use the spritesets.  How do i C++?
     Sprites::drawSelfMasked(ab.width()/2 - 8, ab.height()/2-2, iHateThis.getSpriteSet(this->scanWord), this->animStepAlt);
     if(ab.everyXFrames(3)){
       this->animStepAlt = (this->animStepAlt + 1) % 4;
